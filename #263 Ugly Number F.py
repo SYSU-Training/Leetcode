@@ -16,7 +16,10 @@ def prime_factors(n):
 
 def is_ugly_number(num):
     prime=list(set(prime_factors(num)))
-    flag=True
+    if num>=1:
+    	flag=True
+    else:
+    	flag=False
     for i in range(len(prime)):
         if prime[i] not in prime_list:
             flag=False
