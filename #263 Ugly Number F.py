@@ -1,5 +1,6 @@
 #263. Ugly Number  
-
+#set
+prime_list=[2,3,5]
 def prime_factors(n):
     i = 2
     factors = []
@@ -20,10 +21,6 @@ def is_ugly_number(num):
         if prime[i] not in prime_list:
             flag=False
     return flag
-
-#set
-prime_list=[2,3,5]
-
 #test
 number=raw_input("number: ")
 print is_ugly_number(int(number))
