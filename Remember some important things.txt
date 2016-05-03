@@ -2,3 +2,4 @@ vector<int>:like an array
 map <int,int>:one store subscript,one store data
 string:relative command
 vector<vector<int>>
+pointer related operation
