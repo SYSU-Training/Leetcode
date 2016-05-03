@@ -8,8 +8,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        da={}
-        db={}
+        da={}   # item_name:a[i];item_value:b[i]
+        db={}   # item_name:b[i];item_value:a[i]
         for t in range(len(a)):
             aa,bb=da.get(a[t]),db.get(b[t])
             if aa==None and bb==None:
