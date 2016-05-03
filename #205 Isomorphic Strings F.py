@@ -1,4 +1,26 @@
 #205. Isomorphic Strings
+
+#Method 1
+class Solution(object):
+    def isIsomorphic(self, a, b):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        da={}
+        db={}
+        for t in range(len(a)):
+            aa,bb=da.get(a[t]),db.get(b[t])
+            if aa==None and bb==None:
+                da[a[t]]=b[t]
+                db[b[t]]=a[t]
+            elif aa!=b[t] or bb!=a[t]:
+                return False
+        return True
+
+
+#Method 2       
 '''
 longer code, shorter time
 '''
@@ -52,6 +74,8 @@ class Solution(object):
                 
         return True
 
+
+#Method 1+
 '''
 class Solution:
     # @param {string} s
