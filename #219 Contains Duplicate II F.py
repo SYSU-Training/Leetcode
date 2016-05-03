@@ -1,4 +1,19 @@
 #219. Contains Duplicate II 
+'''
+Method 1
+http://www.cnblogs.com/sxbjdl/p/5281389.html
+'''
+def fun(num,k):
+    d={}  #name->integer  value->position from 0
+    for i,v in enumerate(num):  #enumerate()->tuple
+        if v in d and i-d[v]<=k: 
+            return True
+        d[v]=i  #old one covers the new one if equal value and >k
+    return False
+
+'''
+Method 2
+'''
 class Solution(object):
     def containsNearbyDuplicate(self, nums, k):
         """
