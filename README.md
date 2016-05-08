@@ -8,3 +8,4 @@ Leetcode Problems Using Python/C++
 2016/05/05 [#191 Number of 1 Bits]<br/>
 2016/05/06 [#168 Excel Sheet Column Title]<br/>
 2016/05/07 [#171 Excel Sheet Column Number]<br/>
+2016/05/07 [#067 Add Binary]<br/>
