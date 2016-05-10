@@ -10,3 +10,4 @@ Leetcode Problems Using Python/C++
 2016/05/07 [#171 Excel Sheet Column Number]<br/>
 2016/05/08 [#067 Add Binary]<br/>
 2016/05/09 [#226 Invert Binary Tree]<br/>
+2016/05/10 [#257 Binary Tree Paths]<br/>
