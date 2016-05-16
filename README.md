@@ -15,5 +15,5 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/05/12 [#112 Path Sum] [#113 Path Sum II]<br/>
 2016/05/13 [#129 Sum Root to Leaf Numbers]<br/>
 2016/05/14 [#104 Maximum Depth of Binary Tree] [#111 Minimum Depth of Binary Tree]<br/>
-2016/05/15 [#344 Reverse Vowels of a String] [#345 Reverse Vowels of a String]<br/>
+2016/05/15 [#344 Reverse String] [#345 Reverse Vowels of a String]<br/>
 2016/05/16 [#098 Validate Binary Search Tree]<br/>
