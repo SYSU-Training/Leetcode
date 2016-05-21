@@ -20,3 +20,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/05/17 [#290 Word Pattern]<br/>
 2016/05/19 [#001 Two Sum]<br/>
 2016/05/21 [#007 Reverse Interger]<br/>
+2016/05/21 [#008 String to Interger(atoi)]<br/>
