@@ -25,4 +25,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/06/04 [#002 Add Two Numbers][#349 Intersection of Two Arrays]<br/>
 2016/06/05 [#283 Move Zeroes][#021 Merge Two Sorted Lists]<br/>
 2016/06/07 [#206 Reverse Linked List]<br/>
-2016/06/08 [#083 Remove Duplicates from Sorted List]<br/>
+2016/06/08 [#083 Remove Duplicates from Sorted List][#203 Remove Linked List Elements]<br/>
