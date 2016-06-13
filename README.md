@@ -30,4 +30,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/06/10 [#024 Swap Nodes in Pairs][#019 Remove Nth Node From End of List][#061 Rotate List][#141 Linked List Cycle][#009 Palindrome Number]<br/>
 2016/06/11 [#189 Rotate Array]<br/>
 2016/06/12 [#278 First Bad Version]<br/>
-2016/06/12 [#027 Remove Element]<br/>
+2016/06/13 [#027 Remove Element]<br/>
