@@ -32,3 +32,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/06/12 [#278 First Bad Version]<br/>
 2016/06/13 [#027 Remove Element][#026 Remove Duplicates from Sorted Array]<br/>
 2016/06/21 [#100 Same Tree]<br/>
+2016/06/29 [#258 Add Digits]<br/>
