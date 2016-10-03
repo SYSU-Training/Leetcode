@@ -34,6 +34,7 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/06/21 [#100 Same Tree]<br/>
 2016/06/29 [#258 Add Digits]<br/>
 2016/08/01 [#374 Guess Number Higher or Lower]<br/>
-2016/08/03 [#371 Sum of Two Integers]</br>
+2016/08/03 [#371 Sum of Two Integers]<br/>
 
 **New Journey**<br/>
+2016/10/03 [#378 Kth Smallest Element in a Sorted Matrix]<br/>
