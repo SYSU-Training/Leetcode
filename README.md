@@ -38,3 +38,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 
 **New Journey**<br/>
 2016/10/03 [#378 Kth Smallest Element in a Sorted Matrix]<br/>
+2016/10/10-2016/10/6 [#92 #142 #234 #382]</br>
