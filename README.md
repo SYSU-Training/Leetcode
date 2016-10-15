@@ -41,4 +41,4 @@ Leetcode Problems Using Python/C++<br/><br/>
 2016/10/10-2016/10/6 [#92 #142 #234 #382]</br>
 2016/10/11 [#092 Reverse Linked List II]</br>
 2016/10/13 [#234 Palindrome Linked List]</br>
-2016/10/13 [#142 Linked List Cycle II]</br>
+2016/10/15 [#142 Linked List Cycle II]</br>
